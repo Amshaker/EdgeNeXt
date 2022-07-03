@@ -19,7 +19,7 @@
 <!-- ![results](images/madds_vs_top_1.png) -->
 <img src="images/EdgeNeXt_figure.png" width="800">
 </p>
-Our proposed EdgeNeXt model runs in real time on NVIDIA Jetson Nano edge device (left), and achieves state-of-the-art accuracy of 79.4% on ImageNet-1K with only 5.6M parameters and 1.3G MAdds. The same model achieves 81.1% accuracy when trained using [USI](https://github.com/Alibaba-MIIL/Solving_ImageNet).
+Our proposed EdgeNeXt model runs in real time on NVIDIA Jetson Nano edge device, and achieves state-of-the-art accuracy of 79.4% on ImageNet-1K with only 5.6M parameters and 1.3G MAdds. The same model achieves 81.1% accuracy when trained using [USI](https://github.com/Alibaba-MIIL/Solving_ImageNet).
 
 ## Abstract
 
