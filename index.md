@@ -12,8 +12,16 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oh-ooHlx58o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+<p align="center">
+<!-- ![results](images/madds_vs_top_1.png) -->
+<img src="images/EdgeNeXt_figure.png" width="600">
+</p>
+
+<p align="center">
 
 ## Abstract
+
+</p>
 
 ![main figure](images/EdgeNext.png)
 
@@ -31,9 +39,7 @@ In the pursuit of achieving ever-increasing accuracy, large and complex neural n
 | edgenext_x_small_bn_hs | 74.87 | 2.34M | 536M | [model](https://github.com/mmaaz60/EdgeNeXt/releases/download/v1.0/edgenext_x_small_bn_hs.pth)
 | edgenext_xx_small_bn_hs | 70.33 | 1.33M | 260M | [model](https://github.com/mmaaz60/EdgeNeXt/releases/download/v1.0/edgenext_xx_small_bn_hs.pth)
 
-## Comparison with SOTA ViTs and Hybrid Architectures
-<!-- ![results](images/madds_vs_top_1.png) -->
-<img src="images/madds_vs_top_1.png" width="600">
+
 
 ## Comparison with Previous SOTA [MobileViT (ICLR-2022)](https://arxiv.org/abs/2110.02178)
 ![results](images/table_2.png)
