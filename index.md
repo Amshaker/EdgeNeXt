@@ -12,16 +12,18 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oh-ooHlx58o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<p align="center">
-<!-- ![results](images/madds_vs_top_1.png) -->
-<img src="images/EdgeNeXt_figure.png" width="600">
-</p>
+<br>
 
 <p align="center">
+<!-- ![results](images/madds_vs_top_1.png) -->
+<img src="images/EdgeNeXt_figure.png" width="800">
+</p>
+
+<br>
 
 ## Abstract
 
-</p>
+
 
 ![main figure](images/EdgeNext.png)
 
