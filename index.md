@@ -4,7 +4,7 @@
 
 <br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Paper](https://arxiv.org/abs/2206.10589): [<img height="25" src="/EdgeNeXt/Paper.PNG" width="25" />](https://arxiv.org/abs/2206.10589)  , [Code:](https://github.com/mmaaz60/EdgeNeXt) [<img height="25" src="/EdgeNeXt/img_1.png" width="25" />](https://github.com/mmaaz60/EdgeNeXt)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Paper](https://arxiv.org/abs/2206.10589): [<img height="25" src="/EdgeNeXt/Paper.PNG" width="25" />](https://arxiv.org/abs/2206.10589)  , [Code:](https://github.com/mmaaz60/EdgeNeXt) [<img height="25" src="/EdgeNeXt/Github.png" width="25" />](https://github.com/mmaaz60/EdgeNeXt), [Slides:](https://mbzuaiac-my.sharepoint.com/personal/muhammad_maaz_mbzuai_ac_ae/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmuhammad%5Fmaaz%5Fmbzuai%5Fac%5Fae%2FDocuments%2FMS%5FThesis%2FEdgeNeXt%2FEdgeNeXt%2Epdf&parent=%2Fpersonal%2Fmuhammad%5Fmaaz%5Fmbzuai%5Fac%5Fae%2FDocuments%2FMS%5FThesis%2FEdgeNeXt&ga=1) [<img height="25" src="/EdgeNeXt/slides.png" width="25" />](https://mbzuaiac-my.sharepoint.com/personal/muhammad_maaz_mbzuai_ac_ae/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmuhammad%5Fmaaz%5Fmbzuai%5Fac%5Fae%2FDocuments%2FMS%5FThesis%2FEdgeNeXt%2FEdgeNeXt%2Epdf&parent=%2Fpersonal%2Fmuhammad%5Fmaaz%5Fmbzuai%5Fac%5Fae%2FDocuments%2FMS%5FThesis%2FEdgeNeXt&ga=1)
 
 <br>
 
@@ -14,12 +14,12 @@
 
 <br>
 
+## Overview
 <p align="center">
 <!-- ![results](images/madds_vs_top_1.png) -->
 <img src="images/EdgeNeXt_figure.png" width="800">
 </p>
-
-<br>
+Our proposed EdgeNeXt model runs in real time on NVIDIA Jetson Nano edge device (left), and achieves state-of-the-art accuracy of 79.4% on ImageNet-1K with only 5.6M parameters and 1.3G MAdds. The same model achieves 81.1% accuracy when trained using [USI](https://github.com/Alibaba-MIIL/Solving_ImageNet).
 
 ## Abstract
 
